@@ -1,0 +1,35 @@
+
+h1{
+    padding-left: 30px;
+}
+.principal{
+    background: #CCCCCC;
+    padding: 20px;
+    
+}
+#banner {
+    width: 100%;
+}
+.diferenciales {
+    background: #FFFFFF;
+    padding: 30px;
+    display: inline-block;
+}
+
+h2{
+    text-align: center;
+}
+em strong{
+    color:red;
+}
+
+ul.items{
+    display: inline-block;
+    font-style: italic;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+.imagenDiferenciales{
+    width: 50%;
+}
